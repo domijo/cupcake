@@ -31,7 +31,9 @@ input{
     background-color:#2a8878;
     
 }
-
+form{
+    margin-left: 20px;
+}
 .content{
     text-align: center;
     width: 100%;
