@@ -50,6 +50,7 @@ ul{
 .p1,.p5, h1{
     color: #feebda;
 }
+
 .p2,.p3,.p4,h2,h3{
     color:#e782a4 ;
 }
@@ -58,6 +59,7 @@ ul{
 }
 .article1, .article2, .article3{
     background-color: #feebda;
+    border-radius: 5px;
 }
 #intro a{
     color: #e782a4;
